@@ -1,7 +1,7 @@
 
 {
   "name": "str-concat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repo": "darthtrevino/str-concat",
   "description": "Returns the malloc'ed result of two c-strings concatenated.",
   "keywords": [ "string", "concat" ],
